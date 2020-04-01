@@ -1,0 +1,16 @@
+{
+  "tempBanRole": "Temp. Banned",
+  "prefix": "!",
+  "mallardRole": "Mallards",
+  "canvasbackRole": "Canvasbacks",
+  "woodRole": "Wood Ducks",
+  "hoodedMerganserRole": "Hooded Mergansers",
+  "buffleheadRole": "Buffleheads",
+  "northernShovelerRole": "Northern Shovelers",
+  "ringNeckedRole": "Ring Necked Ducks",
+  "gadwallRole": "Gadwalls",
+  "ruddyShelduckRole": "Ruddy Shelducks",
+  "callduckRole": "Call Ducks",
+  "muscovyRole": "Muscovies",
+  "longTailedRole": "Long Tailed Ducks"
+}
