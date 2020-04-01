@@ -3,11 +3,10 @@ const db = new sql.Database("bot.sqlite");
 console.log("Initialized database connection.")
 
 const tables = {
-	mutes: [
+	judged: [
     "id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL",
 		"snowflake TEXT NOT NULL",
-		"guild TEXT NOT NULL",
-		"unmutedAt INTEGER NOT NULL"
+		"guild TEXT NOT NULL"
 	],
 }
 
